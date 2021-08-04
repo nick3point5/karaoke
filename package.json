@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon script.js"
-
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nick3point5/karaoke/issues"
   },
-  "homepage": "https://github.com/nick3point5/karaoke#readme"
+  "homepage": "https://github.com/nick3point5/karaoke#readme",
+  "dependencies": {
+    "firebase": "^8.8.1"
+  }
 }
